@@ -13,9 +13,6 @@ I'm a full stack developer :computer:
 - :computer:   Python, ReactJS, React Native
 - 💬   Ask me about: tech, movies, animes
 
-
-Enthusiast of the best web & mobile development technologies.
-
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful." - Calvin Coolidge
 
 ![JoaoPauloAntunes Status](https://github-readme-stats.vercel.app/api?username=JoaoPauloAntunes&show_icons=true&theme=dark&count_private=true)
