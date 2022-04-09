@@ -12,3 +12,9 @@ I.T. Intern at [SmartAgriBR](https://smart.agr.br/).
 </div> -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPauloAntunes)](https://github.com/JoaoPauloAntunes/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPauloAntunes&count_private=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPauloAntunes&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPauloAntunes&show_icons=true&theme=radical)
