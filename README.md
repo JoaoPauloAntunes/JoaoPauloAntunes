@@ -8,3 +8,7 @@ I.T. Intern at [SmartAgriBR](https://smart.agr.br/).
 ![JoaoPauloAntunes Status](https://github-readme-stats.vercel.app/api?username=JoaoPauloAntunes&show_icons=true&theme=dark&count_private=true)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloAntunes&layout=compact&langs_count=8&theme=dark)](https://github.com/JoaoPauloAntunes/github-readme-stats)
+
+Enthusiast of the best web & mobile development technologies.
+
+"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful." - Calvin Coolidge
