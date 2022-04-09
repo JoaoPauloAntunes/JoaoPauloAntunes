@@ -9,7 +9,7 @@ I'm João.
 I'm a full stack developer :computer:
 
 - :rocket:   I’m currently working at [SmartAgriBR](https://smart.agr.br/)
-- :purple_heart:   Python
+- :red_heart:   Python
 - :computer:   Python, ReactJS, React Native
 - 💬   Ask me about: tech, movies, animes
 
