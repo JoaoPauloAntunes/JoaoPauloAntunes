@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
+<img align="right" src="https://github.com/JoaoPauloAntunes/JoaoPauloAntunes/blob/master/images/illustration.png" width="300"/>
 
 João Paulo Antunes de Souza
 ---
