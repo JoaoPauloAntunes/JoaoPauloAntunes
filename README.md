@@ -6,7 +6,9 @@ I.T. Intern at [SmartAgriBR](https://smart.agr.br/).
 [![Gmail Badge](https://img.shields.io/badge/-jpantunesdesouza@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jpantunesdesouza@gmail.com)](mailto:jpantunesdesouza@gmail.com)
 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/JoaoPauloAntunes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloAntunes&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div> -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPauloAntunes)](https://github.com/JoaoPauloAntunes/github-readme-stats)
