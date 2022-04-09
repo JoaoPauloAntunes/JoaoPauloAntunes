@@ -7,8 +7,8 @@ I.T. Intern at [SmartAgriBR](https://smart.agr.br/).
 
 
 <div align="center">
-  <a href="https://github.com/gabrielcarvalhodias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcarvalhodias&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/JoaoPauloAntunes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloAntunes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
