@@ -11,10 +11,8 @@ I.T. Intern at [SmartAgriBR](https://smart.agr.br/).
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloAntunes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPauloAntunes&show_icons=true&theme=radical&count_private=true)
+![JoaoPauloAntunes Status](https://github-readme-stats.vercel.app/api?username=JoaoPauloAntunes&show_icons=true&theme=radical&count_private=true)
 
-
-![JoaoPauloAntunes Status](https://github-readme-stats.vercel.app/api?username=JoaoPauloAntunes&show_icons=true)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloAntunes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
