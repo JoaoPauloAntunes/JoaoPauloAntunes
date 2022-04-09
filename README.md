@@ -8,5 +8,3 @@ I.T. Intern at [SmartAgriBR](https://smart.agr.br/).
 ![JoaoPauloAntunes Status](https://github-readme-stats.vercel.app/api?username=JoaoPauloAntunes&show_icons=true&theme=dark&count_private=true)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloAntunes&layout=compact&langs_count=8&theme=dark)](https://github.com/JoaoPauloAntunes/github-readme-stats)
-
-[![JoaoPauloAntunes Status](https://github-readme-stats.vercel.app/api/JoaoPauloAntunes?username=JoaoPauloAntunes)](https://github.com/JoaoPauloAntunes/github-readme-stats)
