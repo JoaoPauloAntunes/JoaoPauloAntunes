@@ -12,22 +12,3 @@ I.T. Intern at [SmartAgriBR](https://smart.agr.br/).
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPauloAntunes&show_icons=true&theme=radical&count_private=true)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoPauloAntunes&repo=github-readme-stats)](https://github.com/JoaoPauloAntunes/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloAntunes)](https://github.com/JoaoPauloAntunes/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloAntunes&exclude_repo=github-readme-stats,JoaoPauloAntunes.github.io)](https://github.com/JoaoPauloAntunes/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloAntunes&langs_count=8)](https://github.com/JoaoPauloAntunes/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloAntunes&layout=compact)](https://github.com/JoaoPauloAntunes/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/JoaoPauloAntunes/github-readme-stats)
-
-<a href="https://github.com/JoaoPauloAntunes/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoPauloAntunes&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/JoaoPauloAntunes/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoPauloAntunes&repo=convoychat" />
-</a>
