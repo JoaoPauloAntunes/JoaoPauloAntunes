@@ -20,12 +20,10 @@ João Paulo Antunes de Souza
 
 ### ✨ GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/JoaoPauloAntunes">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaoPauloAntunes&show_icons=true&theme=nord&include_all_commits=true&count_private=true&show_owner=true"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPauloAntunes&count_private=true&theme=nord"/>
-</a>
-</p>
+
+![GitHub Stats Eight Theta](https://github-readme-stats-eight-theta.vercel.app/api?username=JoaoPauloAntunes&show_icons=true&theme=nord&include_all_commits=true&count_private=true&show_owner=true)
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=JoaoPauloAntunes&count_private=true&theme=nord)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloAntunes&layout=compact&langs_count=8&theme=dark)](https://github.com/JoaoPauloAntunes/github-readme-stats)
 
@@ -42,10 +40,3 @@ João Paulo Antunes de Souza
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
-### ⚙️ &nbsp;WakaTime Activity
-
-<p align="center">
-  <img src="https://github.com/JoaoPauloAntunes/JoaoPauloAntunes/blob/main/images/stat.svg" alt="JoaoPauloAntunes WakaTime Activity"/>
-</p>
