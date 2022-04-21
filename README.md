@@ -1,6 +1,7 @@
 <img align="right" src="https://github.com/JoaoPauloAntunes/JoaoPauloAntunes/blob/master/images/illustration.png" width="300"/>
 
-João Paulo Antunes de Souza <img src="https://komarev.com/ghpvc/?username=JoaoPauloAntunes&color=green" alt="JoaoPauloAntunes" /> 
+João Paulo Antunes de Souza 
+![](https://komarev.com/ghpvc/?username=JoaoPauloAntunes&color=green)
 ---
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jo&atilde;o%20Paulo%20Antunes%20de%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-paulo-antunes)](https://www.linkedin.com/in/joao-paulo-antunes) 
