@@ -21,9 +21,9 @@ João Paulo Antunes de Souza
 ### ✨ GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/nathalisr">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nathalisr&show_icons=true&theme=nord&include_all_commits=true&count_private=true&show_owner=true"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=nathalisr&count_private=true&theme=nord"/>
+<a href="https://github.com/JoaoPauloAntunes">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaoPauloAntunes&show_icons=true&theme=nord&include_all_commits=true&count_private=true&show_owner=true"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPauloAntunes&count_private=true&theme=nord"/>
 </a>
 </p>
 
@@ -47,5 +47,5 @@ João Paulo Antunes de Souza
 ### ⚙️ &nbsp;WakaTime Activity
 
 <p align="center">
-  <img src="https://github.com/nathalisr/nathalisr/blob/main/images/stat.svg" alt="nathalisr WakaTime Activity"/>
+  <img src="https://github.com/JoaoPauloAntunes/JoaoPauloAntunes/blob/main/images/stat.svg" alt="JoaoPauloAntunes WakaTime Activity"/>
 </p>
