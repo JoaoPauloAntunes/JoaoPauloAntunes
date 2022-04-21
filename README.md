@@ -38,7 +38,7 @@
 
 </div>
 
-### 📝 Contact
+### 📝 Contacts
 
 <div align="center"> 
 
