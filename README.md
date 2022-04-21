@@ -21,13 +21,20 @@ João Paulo Antunes de Souza
 ### ✨ GitHub Analytics
 
 
-![GitHub Stats Eight Theta](https://github-readme-stats-eight-theta.vercel.app/api?username=JoaoPauloAntunes&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show_owner=true)
+<p align="center">
+  <a href="https://github.com/JoaoPauloAntunes">
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaoPauloAntunes&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloAntunes&layout=compact&langs_count=8&theme=dark"/>
+  </a>
+</p>
+
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=JoaoPauloAntunes&count_private=true&theme=dark)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloAntunes&layout=compact&langs_count=8&theme=dark)](https://github.com/JoaoPauloAntunes/github-readme-stats)
 
 ### 🛠 &nbsp;Tech Stack
+
+[![Top Linguagens]()](https://github.com/JoaoPauloAntunes/github-readme-stats)
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
