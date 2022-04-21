@@ -46,8 +46,11 @@ João Paulo Antunes de Souza
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <div align="center"> 
-  <a href = "mailto:JoaoPauloAntunes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-paulo-antunes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:JoaoPauloAntunes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%c14438?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<!--   [![Gmail Badge](https://img.shields.io/badge/-jpantunesdesouza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jpantunesdesouza@gmail.com)](mailto:jpantunesdesouza@gmail.com) -->
+
   <a href="https://www.youtube.com/channel/UCKyBkY5OlIiVLSvoj9eSaFQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/jpantunes13/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
