@@ -27,7 +27,6 @@
 
 
 <div align="center"> 
-
   ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloAntunes&layout=compact&langs_count=8&theme=dark)
 
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -46,6 +45,4 @@
   <a href="https://www.instagram.com/jpantunes13/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://raw.githubusercontent.com/JoaoPauloAntunes/JoaoPauloAntunes/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
- 
 </div>
-    <!-- https://github.com/JoaoPauloAntunes/JoaoPauloAntunes/blob/output/github-contribution-grid-snake.svg) -->
