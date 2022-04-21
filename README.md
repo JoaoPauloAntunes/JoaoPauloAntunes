@@ -45,6 +45,9 @@
   <a href="https://www.youtube.com/channel/UCKyBkY5OlIiVLSvoj9eSaFQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/jpantunes13/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/JoaoPauloAntunes/JoaoPauloAntunes/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](
+    
+    https://raw.githubusercontent.com/JoaoPauloAntunes/JoaoPauloAntunes/master/<file>
  
 </div>
+    <!-- https://github.com/JoaoPauloAntunes/JoaoPauloAntunes/blob/output/github-contribution-grid-snake.svg) -->
