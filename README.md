@@ -21,9 +21,9 @@ João Paulo Antunes de Souza
 ### ✨ GitHub Analytics
 
 
-![GitHub Stats Eight Theta](https://github-readme-stats-eight-theta.vercel.app/api?username=JoaoPauloAntunes&show_icons=true&theme=nord&include_all_commits=true&count_private=true&show_owner=true)
+![GitHub Stats Eight Theta](https://github-readme-stats-eight-theta.vercel.app/api?username=JoaoPauloAntunes&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show_owner=true)
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=JoaoPauloAntunes&count_private=true&theme=nord)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=JoaoPauloAntunes&count_private=true&theme=dark)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloAntunes&layout=compact&langs_count=8&theme=dark)](https://github.com/JoaoPauloAntunes/github-readme-stats)
 
