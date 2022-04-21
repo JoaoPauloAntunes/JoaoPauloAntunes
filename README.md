@@ -27,8 +27,6 @@ João Paulo Antunes de Souza
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloAntunes&layout=compact&langs_count=8&theme=dark)](https://github.com/JoaoPauloAntunes/github-readme-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoPauloAntunes&show_icons=true&theme=dark&count_private=true)
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
