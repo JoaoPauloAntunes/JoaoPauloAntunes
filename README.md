@@ -1,14 +1,14 @@
 <img align="right" src="https://github.com/JoaoPauloAntunes/JoaoPauloAntunes/blob/master/images/illustration.png" width="300"/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends, I'm João! 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends 
 
 ![](https://komarev.com/ghpvc/?username=JoaoPauloAntunes&color=green)
 
-- :computer: I'm a full stack developer 
-- 🔭 I'm currently working for a precision agriculture company
-- 👨‍💻 I like to build things with Python, React, React Native, Docker, AWS, SQL databases and modern backend APIs
-- 🌱 I'm currently learning to use Serverless framework
-- 💬 Ask me about: tech, movies, animes
+- :computer: I'm João, a Full Stack Developer! 
+- 🔭 I'm currently working for a precision agriculture company.
+- 👨‍💻 I like to build things with Python, React, React Native, Docker, AWS, SQL databases and modern backend APIs.
+- 🌱 I'm currently learning to use Serverless framework.
+- 💬 Ask me about: tech, movies, animes.
 
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful." - Calvin Coolidge
 
