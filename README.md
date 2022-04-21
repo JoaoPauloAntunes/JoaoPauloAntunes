@@ -9,9 +9,10 @@ João Paulo Antunes de Souza
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends
 I'm João.
-I'm a full stack developer :computer:
 
-- :rocket:   I’m currently working at [SmartAgriBR](https://smart.agr.br/)
+
+- :computer: I'm a full stack developer 
+- 🔭 I'm currently working for a precision agriculture company
 - :heart:   Python
 - :computer:   Python, ReactJS, React Native
 - 💬   Ask me about: tech, movies, animes
