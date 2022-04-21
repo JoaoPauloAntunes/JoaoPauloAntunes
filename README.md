@@ -29,12 +29,11 @@ João Paulo Antunes de Souza
 </p>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloAntunes&layout=compact&langs_count=8&theme=dark)
 
 
 ### 🛠 &nbsp;Tech Stack
 
-[![Top Linguagens]()](https://github.com/JoaoPauloAntunes/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloAntunes&layout=compact&langs_count=8&theme=dark)
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
