@@ -21,7 +21,7 @@
   </a>
 </p>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 Tech Stack
 <div align="center"> 
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloAntunes&layout=compact&langs_count=8&theme=dark)
