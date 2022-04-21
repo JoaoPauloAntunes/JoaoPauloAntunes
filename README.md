@@ -7,8 +7,7 @@ João Paulo Antunes de Souza
 [![Linkedin Badge](https://img.shields.io/badge/-Jo&atilde;o%20Paulo%20Antunes%20de%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-paulo-antunes)](https://www.linkedin.com/in/joao-paulo-antunes) 
 [![Gmail Badge](https://img.shields.io/badge/-jpantunesdesouza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jpantunesdesouza@gmail.com)](mailto:jpantunesdesouza@gmail.com)
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends
-I'm João.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends, I'm João
 
 
 - :computer: I'm a full stack developer 
