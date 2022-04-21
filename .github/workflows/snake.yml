@@ -1,11 +1,10 @@
-name: generate animation
+name: Generate Snake
 
 on:
-  # run automatically every 6 hours
-  schedule:
-    - cron: "0 */8 * * *" 
+  schedule: # execute every 6 hours
+    - cron: "0 */6 * * *"
   
-  # allows to manually run the job at any time
+  # allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
   
   # run on every push on the master branch
