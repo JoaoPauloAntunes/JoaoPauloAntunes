@@ -15,8 +15,8 @@
 
 <p align="center">
   <a href="https://github.com/JoaoPauloAntunes">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaoPauloAntunes&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show_owner=true"/>
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPauloAntunes&count_private=true&theme=dark"/>
+    <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaoPauloAntunes&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show_owner=true"/>
+    <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPauloAntunes&count_private=true&theme=dark"/>
   </a>
 </p>
 
