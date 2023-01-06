@@ -6,7 +6,7 @@
 
 - :computer: I'm João, a Software Engineer! 
 - 🔭 I'm currently working for a precision agriculture company.
-- 👨‍💻 I like to build things with Python, React, React Native, Docker, AWS, SQL databases and modern backend APIs.
+- 👨‍💻 I like to build things with Python, React, React Native, Docker, AWS, SQL databases, Amazon DynamoDB and modern backend APIs.
 - 🌱 I'm currently learning to use AWS CDK. 
 - 💬 Ask me about: tech, movies, animes.
 
