@@ -10,7 +10,7 @@
 - 🌱 I'm currently learning to use AWS CDK. 
 - 💬 Ask me about: tech, movies, animes.
 
-"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful." - Calvin Coolidge
+"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination are, by themselves, omnipotent." - Calvin Coolidge
 
 ### ✨ GitHub Analytics
 
