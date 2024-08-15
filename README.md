@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=JoaoPauloAntunes&color=green)
 
-- :computer: I'm João, a Software Engineer! 
+- :computer: I'm João, a Computer Engineer! 
 - 🔭 I'm currently working for a precision agriculture company.
 - 👨‍💻 I like to build things with Python, React, React Native, Docker, AWS, SQL databases, Amazon DynamoDB and modern backend APIs.
 - 🌱 I'm currently learning to use AWS CDK. 
