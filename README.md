@@ -8,7 +8,7 @@
 - 🔭 I'm currently working for a precision agriculture company.
 - 👨‍💻 I like to build things with Python, React, React Native, Docker, AWS, SQL databases, Amazon DynamoDB and modern backend APIs.
 - 🌱 I'm currently learning to use AWS CDK. 
-- 💬 Ask me about: tech, movies, animes.
+- 💬 Ask me about: tech, movies, animes, gym and races.
 
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination are, by themselves, omnipotent." - Calvin Coolidge
 
