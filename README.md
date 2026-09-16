@@ -4,17 +4,17 @@
 
 ![](https://komarev.com/ghpvc/?username=JoaoPauloAntunes&color=green)
 
-Computer Engineer and **Full Stack Developer** building cloud software for precision agriculture at **Zait** (formerly Smart Agri, [@smartagribr](https://github.com/smartagribr)) since 2020.
+**Full Stack Developer who solves the whole problem** — for 5+ years turning field data into software for precision agriculture at **Zait** (formerly Smart Agri, [@smartagribr](https://github.com/smartagribr)).
 
 🌐 **Portfolio:** [joaopauloantunes.github.io](https://joaopauloantunes.github.io/)
 
-- 🚜 I work across several of the company's products, end to end — **1,000+ merged pull requests**.
-- 🗺️ Coverage path planning and GIS: Fields2Cover, Shapely, GeoJSON, QGIS, Leaflet.
-- ☁️ Serverless Python on AWS: Lambda, API Gateway, DynamoDB, Cognito, S3, IoT Core (MQTT), EventBridge, CDK.
-- ⚙️ CI/CD: I built a self-hosted build server that replaced AWS CodeBuild for firmware builds.
-- 💬 WhatsApp Business integration: automatic alerts and command menus for machines in the field.
-- 💰 AWS cost reduction, measured before and after.
-- 🤖 AI-assisted development with Claude Code and ChatGPT.
+- 📈 **1,000+ merged pull requests**, end to end: data, API, UI, deploy and cost.
+- 🗺️ Coverage routes computed automatically — obstacles avoided, ready for QGIS.
+- 💬 Machines that text you: WhatsApp alerts with command menus.
+- ⚙️ My own CI/CD replaced AWS CodeBuild — **10+ firmwares** built and published.
+- 💰 A smaller AWS bill, with cuts measured before and after.
+- ☁️ Serverless Python on AWS: Lambda, API Gateway, DynamoDB, Cognito, S3, IoT Core, CDK.
+- 🤖 Faster with AI (Claude Code, ChatGPT) — always reviewed and tested.
 - 🏠 Open to remote opportunities.
 - 💬 Ask me about: tech, movies, animes, gym and races.
 
