@@ -4,16 +4,16 @@
 
 ![](https://komarev.com/ghpvc/?username=JoaoPauloAntunes&color=green)
 
-Computer Engineer and **Full Stack Developer** turning field data into useful software for precision agriculture at **Zait** (formerly Smart Agri, [@smartagribr](https://github.com/smartagribr)) since 2020.
+Computer Engineer and **Full Stack Developer** building cloud software for precision agriculture at **Zait** (formerly Smart Agri, [@smartagribr](https://github.com/smartagribr)) since 2020.
 
 🌐 **Portfolio:** [joaopauloantunes.github.io](https://joaopauloantunes.github.io/)
 
-- 🚜 Cloud systems that collect, process and display data from farm machines, sensors and maps — end to end.
-- 🗺️ Spatial data: interactive maps, field work planning, QGIS and QField.
-- ☁️ Serverless Python on AWS: Lambda, API Gateway, DynamoDB, Cognito, S3, IoT Core, CDK.
-- 📊 Automatic reports with maps, figures and charts.
-- ⚙️ CI/CD, monitoring and cloud cost under control.
-- 🔌 Electronics background: I like understanding the machine behind the data.
+- 🚜 I work across several of the company's products, end to end — **1,000+ merged pull requests**.
+- 🗺️ Coverage path planning and GIS: Fields2Cover, Shapely, GeoJSON, QGIS, Leaflet.
+- ☁️ Serverless Python on AWS: Lambda, API Gateway, DynamoDB, Cognito, S3, IoT Core (MQTT), EventBridge, CDK.
+- ⚙️ CI/CD: I built a self-hosted build server that replaced AWS CodeBuild for firmware builds.
+- 💬 WhatsApp Business integration: automatic alerts and command menus for machines in the field.
+- 💰 AWS cost reduction, measured before and after.
 - 🤖 AI-assisted development with Claude Code and ChatGPT.
 - 🏠 Open to remote opportunities.
 - 💬 Ask me about: tech, movies, animes, gym and races.
@@ -48,6 +48,7 @@ Computer Engineer and **Full Stack Developer** turning field data into useful so
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+  ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
   ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
   ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge)
 
