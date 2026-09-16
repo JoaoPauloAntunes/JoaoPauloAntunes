@@ -6,7 +6,7 @@
 
 Computer Engineer and **Full Stack Developer** building cloud software for precision agriculture at [@smartagribr](https://github.com/smartagribr) (Zait) since 2020.
 
-- 🚜 I work on **Biodefensor**, a platform that plans, monitors and controls **autonomous agricultural sprayers**: route planning, multi-machine missions, live telemetry and remote control.
+- 🚜 I work across several of the company's products: **autonomous farm machines**, route planning, multi-machine missions, live telemetry, remote control and field reports.
 - 🗺️ Coverage path planning and GIS: Fields2Cover, Shapely, GeoJSON, QGIS, Leaflet.
 - ☁️ Serverless Python on AWS: Lambda, API Gateway, DynamoDB, Cognito, S3, IoT Core (MQTT), CDK.
 - ⚙️ CI/CD: I built the self-hosted server that builds and publishes firmware for 13 embedded projects (ESP-IDF, PlatformIO, STM32).
