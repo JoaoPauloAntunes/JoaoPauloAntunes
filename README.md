@@ -4,18 +4,18 @@
 
 ![](https://komarev.com/ghpvc/?username=JoaoPauloAntunes&color=green)
 
-Computer Engineer and **Full Stack Developer** building cloud software for precision agriculture at **Zait** (formerly Smart Agri, [@smartagribr](https://github.com/smartagribr)) since 2020.
+Computer Engineer and **Full Stack Developer** turning field data into useful software for precision agriculture at **Zait** (formerly Smart Agri, [@smartagribr](https://github.com/smartagribr)) since 2020.
 
-🌐 **Portfolio:** [joaopauloantunes.github.io/portfolio](https://joaopauloantunes.github.io/portfolio/)
+🌐 **Portfolio:** [joaopauloantunes.github.io](https://joaopauloantunes.github.io/)
 
-- 🚜 I work across several of the company's products: **autonomous farm machines**, route planning, multi-machine missions, live telemetry, remote control and field reports.
-- 🗺️ Coverage path planning and GIS: Fields2Cover, Shapely, GeoJSON, QGIS, Leaflet.
-- ☁️ Serverless Python on AWS: Lambda, API Gateway, DynamoDB, Cognito, S3, IoT Core (MQTT), CDK.
-- ⚙️ CI/CD: I built the self-hosted server that builds and publishes firmware for 13 embedded projects (ESP-IDF, PlatformIO, STM32).
-- 💬 WhatsApp Business alerts and commands for machines in the field.
-- 💰 AWS cost reduction, measured before and after.
+- 🚜 Cloud systems that collect, process and display data from farm machines, sensors and maps — end to end.
+- 🗺️ Spatial data: interactive maps, field work planning, QGIS and QField.
+- ☁️ Serverless Python on AWS: Lambda, API Gateway, DynamoDB, Cognito, S3, IoT Core, CDK.
+- 📊 Automatic reports with maps, figures and charts.
+- ⚙️ CI/CD, monitoring and cloud cost under control.
+- 🔌 Electronics background: I like understanding the machine behind the data.
 - 🤖 AI-assisted development with Claude Code and ChatGPT.
-- 📈 1,000+ merged pull requests across the company's products.
+- 🏠 Open to remote opportunities.
 - 💬 Ask me about: tech, movies, animes, gym and races.
 
 ### ✨ GitHub Analytics
@@ -48,7 +48,6 @@ Computer Engineer and **Full Stack Developer** building cloud software for preci
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-  ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
   ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
   ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge)
 
@@ -64,7 +63,7 @@ Computer Engineer and **Full Stack Developer** building cloud software for preci
 
 <div align="center">
 
-  <a href="https://joaopauloantunes.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-22C55E?style=for-the-badge&logo=githubpages&logoColor=white" target="_blank"></a>
+  <a href="https://joaopauloantunes.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-22C55E?style=for-the-badge&logo=githubpages&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-paulo-antunes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:jpantunesdesouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCKyBkY5OlIiVLSvoj9eSaFQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
