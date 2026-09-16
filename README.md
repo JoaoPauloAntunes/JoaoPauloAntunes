@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=JoaoPauloAntunes&color=green)
 
-Computer Engineer and **Full Stack Developer** building cloud software for precision agriculture at [@smartagribr](https://github.com/smartagribr) (Zait) since 2020.
+Computer Engineer and **Full Stack Developer** building cloud software for precision agriculture at **Zait** (formerly Smart Agri, [@smartagribr](https://github.com/smartagribr)) since 2020.
 
 - 🚜 I work across several of the company's products: **autonomous farm machines**, route planning, multi-machine missions, live telemetry, remote control and field reports.
 - 🗺️ Coverage path planning and GIS: Fields2Cover, Shapely, GeoJSON, QGIS, Leaflet.
